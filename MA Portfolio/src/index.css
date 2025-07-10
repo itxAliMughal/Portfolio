@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  @apply bg-darkBrown;
+  overflow-y: auto; /* Re-enabling the scroll bar */
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-track {
+  background: #3c2f2f; /* Dark brown track */
+}
+
+::-webkit-scrollbar-thumb {
+  display: none;
+  overflow-x: hidden; /* Hides the scrollbar track */
+  overflow-y: hidden;
+  background: #ff8c00; /* Orange thumb */
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ffa500; /* Lighter orange on hover */
+}
