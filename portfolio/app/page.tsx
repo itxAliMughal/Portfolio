@@ -864,7 +864,7 @@ export default function Portfolio() {
                     <span
                       className={isDarkMode ? "text-gray-300" : "text-gray-700"}
                     >
-                      03043595013
+                      +92 3043595013
                     </span>
                   </motion.div>
                   <div className="flex space-x-4 mt-8">
@@ -1666,7 +1666,7 @@ export default function Portfolio() {
                           isDarkMode ? "text-gray-300" : "text-gray-700"
                         }
                       >
-                        03043595013
+                        +92 3043595013
                       </div>
                     </div>
                   </motion.div>
@@ -1946,7 +1946,7 @@ export default function Portfolio() {
                   </div>
                   <div className="flex items-center space-x-2">
                     <Phone className="h-4 w-4 text-green-500" />
-                    <span>03043595013</span>
+                    <span>+92 3043595013</span>
                   </div>
                   <div className="flex items-center space-x-2">
                     <Globe className="h-4 w-4 text-green-500" />
