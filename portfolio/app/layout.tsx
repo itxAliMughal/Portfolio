@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Muhammad Ali | Portfolio",
-  description: "Created with v0",
+  description: "Created with Muhammad Ali",
   generator: "v0.dev",
 };
 
