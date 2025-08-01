@@ -1978,7 +1978,7 @@ export default function Portfolio() {
                 } text-xs flex items-center justify-center`}
               >
                 Made with <Heart className="h-3 w-3 text-red-500 mx-1" /> by
-                Muhammad Ali
+                Muhammad Ali!
               </p>
             </motion.div>
           </div>
