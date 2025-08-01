@@ -1,0 +1,122 @@
+
+═══════════════════════════════════════════════════════════════
+                    MUHAMMAD ALI MUGHAL
+                   Web & App Developer
+═══════════════════════════════════════════════════════════════
+
+📧 Email: aaliqaisar2@gmail.com
+📱 Phone: +92 3043595013
+📍 Location: KARACHI, PAKISTAN
+🔗 GitHub: itxAliMughal
+🔗 LinkedIn: muhammad-ali-6bb335313
+
+═══════════════════════════════════════════════════════════════
+                        EDUCATION
+═══════════════════════════════════════════════════════════════
+
+🎓 DEGREE COLLAGE SCIENCE & COMMERCE
+   Intermediate (Computer Science)
+   Duration: 2023 - 2025
+
+═══════════════════════════════════════════════════════════════
+                    WORK EXPERIENCE
+═══════════════════════════════════════════════════════════════
+
+💼 SQUAD CODERS DEV
+   Position: MERN Stack Developer
+   Duration: Feb 2023 - Present (2+ Years)
+
+═══════════════════════════════════════════════════════════════
+                    TECHNICAL SKILLS
+═══════════════════════════════════════════════════════════════
+
+🌐 Frontend Development:
+   ✅ HTML5 (95%)
+   ✅ CSS3 (92%)
+   ✅ JavaScript ES6+ (90%)
+   ✅ React.js (95%)
+   ✅ Next.js (90%)
+   ✅ Tailwind CSS (88%)
+   ✅ Bootstrap (85%)
+
+📱 Mobile Development:
+   ✅ React Native (90%)
+   ✅ Expo CLI (88%)
+
+⚙️ Backend Development:
+   ✅ Node.js (89%)
+   ✅ Express.js (87%)
+   ✅ MongoDB (88%)
+   ✅ Firebase (85%)
+
+🛠️ Tools & Technologies:
+   ✅ Git & GitHub (92%)
+   ✅ VS Code (95%)
+   ✅ Cursor AI (85%)
+   ✅ GSAP Animations (85%)
+   ✅ Shadcn/ui (88%)
+
+🛒 E-commerce Platforms:
+   ✅ WordPress (82%)
+   ✅ Shopify (80%)
+
+📚 Additional Skills:
+   ✅ OOP Programming
+   ✅ jQuery
+   ✅ Redux & Redux Toolkit
+   ✅ Redux Thunk
+   ✅ Zustand State Management
+   ✅ API Integration
+   ✅ Error Handling
+   ✅ Ant Design
+   ✅ Prompt Engineering
+
+═══════════════════════════════════════════════════════════════
+                      SUMMARY
+═══════════════════════════════════════════════════════════════
+
+🚀 Passionate MERN Stack Developer with 2+ years of experience
+   specializing in full-stack web applications and mobile app
+   development.
+
+💡 Expertise in React.js, Node.js, Express.js, and MongoDB with
+   a strong foundation in modern JavaScript frameworks.
+
+📱 Experienced in building cross-platform mobile applications
+   using React Native for both iOS and Android platforms.
+
+🎯 Proven track record of delivering 12+ successful projects
+   for 10+ satisfied clients worldwide.
+
+⚡ Passionate about clean code, performance optimization, and
+   learning cutting-edge technologies.
+
+═══════════════════════════════════════════════════════════════
+                      LANGUAGES
+═══════════════════════════════════════════════════════════════
+
+🗣️ Urdu: Native
+🗣️ English: Professional Working Proficiency
+
+═══════════════════════════════════════════════════════════════
+                    ACHIEVEMENTS
+═══════════════════════════════════════════════════════════════
+
+🏆 12+ Projects Successfully Completed
+🏆 10+ Happy Clients Worldwide
+🏆 2+ Years Professional Experience
+🏆 24/7 Client Support & Communication
+
+═══════════════════════════════════════════════════════════════
+                   CONTACT INFORMATION
+═══════════════════════════════════════════════════════════════
+
+📧 Email: aaliqaisar2@gmail.com
+📱 WhatsApp: +92 3043595013
+🌐 Available for Remote Work Worldwide
+💼 Open to Full-time & Freelance Opportunities
+
+═══════════════════════════════════════════════════════════════
+              © 2024 Muhammad Ali Mughal - MERN Stack Developer
+═══════════════════════════════════════════════════════════════
+  
