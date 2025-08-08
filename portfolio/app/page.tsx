@@ -66,7 +66,6 @@ export default function Portfolio() {
   const y = useTransform(scrollYProgress, [0, 1], ["0%", "50%"]);
 
   const texts = [
-    "MERN Stack Developer",
     "App Developer",
     "Full Stack Developer",
     "React Native Developer",
@@ -413,7 +412,7 @@ export default function Portfolio() {
 
   const reviews = [
     {
-      name: "John Smith",
+      name: "Matthew",
       country: "USA",
       flag: "🇺🇸",
       rating: 5,
@@ -827,11 +826,14 @@ export default function Portfolio() {
                   isDarkMode ? "text-gray-300" : "text-gray-700"
                 } max-w-3xl mx-auto leading-relaxed`}
               >
-                I'm a passionate full-stack developer with expertise in MERN
-                stack and React Native. I create seamless user experiences
-                across web and mobile platforms, specializing in both iOS and
-                Android development. My goal is to build scalable, efficient,
-                and user-friendly applications that make a real impact.
+                I’m a passionate full-stack developer with 1.5+ years of
+                experience in building real-time applications using the MERN
+                stack and React Native. I specialize in creating seamless,
+                high-performance user experiences across both iOS and Android,
+                with several apps successfully deployed on the Play Store. My
+                focus is on delivering scalable, efficient, and impactful
+                solutions that bridge innovation with real-world usability. and
+                user-friendly applications that make a real impact.
               </p>
             </motion.div>
 
@@ -896,7 +898,7 @@ export default function Portfolio() {
                         className="border-green-500 text-green-500 hover:bg-green-500 hover:text-black bg-transparent"
                         onClick={() =>
                           window.open(
-                            "https://www.linkedin.com/in/muhammad-ali-6bb335313/",
+                            "https://www.linkedin.com/in/muhammad-ali-b16548379/",
                             "_blank"
                           )
                         }
@@ -1758,8 +1760,8 @@ export default function Portfolio() {
                     isDarkMode ? "text-gray-400" : "text-gray-600"
                   } text-sm mb-4`}
                 >
-                  Full-stack developer specializing in MERN stack and React
-                  Native development.
+                  Full-stack developer specializing in App Development and React
+                  Mern Stack development.
                 </p>
                 <div className="flex space-x-3">
                   <motion.div
@@ -1795,7 +1797,7 @@ export default function Portfolio() {
                       }`}
                       onClick={() =>
                         window.open(
-                          "https://www.linkedin.com/in/muhammad-ali-6bb335313/",
+                          "https://www.linkedin.com/in/muhammad-ali-b16548379/",
                           "_blank"
                         )
                       }
